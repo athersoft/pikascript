@@ -1,0 +1,14 @@
+Pikascript{
+	PIKA num CHU 32
+	pika!(num)
+	
+	PIKA str CHU "pikachu"
+	pika!(str)
+	
+	PIKA flt CHU 2,3
+	pika!(flt)
+	
+	PIKA numI CHU 2
+	PIKA numII CHU 3
+	suma CHU numI pikapika numII
+}
